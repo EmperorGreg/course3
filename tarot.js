@@ -11,4 +11,4 @@ const randomTarot = (arr1, arr2, arr3) => {
     
 };
 
-randomTarot(tarot, current, future);
+console.log(randomTarot(tarot, current, future));
